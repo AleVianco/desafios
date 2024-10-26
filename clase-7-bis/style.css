@@ -1,0 +1,94 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+/* div {
+    width: 180px;
+    height: 180px;
+    background-color: blue;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 50px;
+    margin-bottom: 50px
+} */
+
+.caja-principal {
+    display: block;
+    width: 350px;
+    height: 580px;
+    background-color: rgb(21, 234, 220);
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-top: 100px;
+    border: 2px solid black    
+}
+
+.caja-descripcion {
+    
+    padding: 10px;
+    position: relative;
+    margin: 12px;
+
+}
+
+.caja-titulo {
+
+    background-color: red;
+    border: 2px solid;
+    border-radius: 6px;
+    padding: 4px 8px;
+    display: inline;
+    position: relative;
+    left: 130px;
+    top: -14px;
+}
+/* .caja1:hover {
+
+    left: 150px;
+    top: 150px;
+
+} */
+
+/* .caja2 {
+    display: block;
+    width: 500px;
+    height: 110px;
+    background-color: rgb(45, 173, 189);
+    margin-top: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 50px
+    
+} */
+
+
+/* .caja3 {
+    display: block;
+    width: 90px;
+    height: 30px;
+    margin-top: 80px;
+    border-style: solid;
+    background-color: red;
+    border-color: white
+    border-width: 2px;
+    border-radius: 15px;
+    color: black;
+    text-align: center;
+} */
+
+.caja-imagen img{
+
+    width: 300px;
+    margin: 10px 25px;
+    
+    border-radius: 15px;
+}
